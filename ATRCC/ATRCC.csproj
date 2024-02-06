@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mono.Cecil" Version="0.11.5" />
+  </ItemGroup>
+	
+  <ItemGroup>
+	  <Reference Include="D:\SteamLibrary\steamapps\common\Among Us All the Roles 0118 V2023.11.2\BepInEx\core\*.dll" />
+	  <Reference Include="D:\SteamLibrary\steamapps\common\Among Us All the Roles 0118 V2023.11.2\BepInEx\interop\*.dll" />
+	  <Reference Include="D:\SteamLibrary\steamapps\common\Among Us All the Roles 0118 V2023.11.2\BepInEx\unity-libs\*.dll" />
+  </ItemGroup>
+	
+
+</Project>

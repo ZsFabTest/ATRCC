@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aevUG3uLnLN2Dun1cv2JbiN0KK7EwBSlMgJhJMbgFF4+Hp72zuGc4egF9xVoU5QM2HQldhZpxd2lDuyqxss2uA==",
+  "success": true,
+  "projectFilePath": "D:\\ATRCC\\ATRCC\\ATRCC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a1234\\.nuget\\packages\\mono.cecil\\0.11.5\\mono.cecil.0.11.5.nupkg.sha512"
+  ],
+  "logs": []
+}
